@@ -1,0 +1,37 @@
+_repo: Lectures-pour-une-ombre_70995
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giraudoux, Jean
+    aliases:
+    - Giraudoux, Hippolyte Jean
+    - Cordelier, Maurice
+    - Giradoux, Jean
+    - Andouard
+    - Maniere, J.-E.
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '51078'
+    url: http://www.gutenberg.org/2009/agents/51078
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Giraudoux
+    - https://fr.wikipedia.org/wiki/Jean_Giraudoux
+description: ''
+gutenberg_issued: '2023-06-18'
+identifiers:
+  gutenberg: '70995'
+language: fr
+pgterms:marc904: https://archive.org/details/lecturespouruneo00gira/mode/2up
+pgterms:marc905: 20220711024455giraudoux
+pgterms:marc906: '1917'
+pgterms:marc907: FR
+production_note: Chuck Greif & the online Distributed Proofreaders Canada team at
+  https://www.pgdpcanada.net
+publication_note: '  $aFrance :$bEmile-Paul, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lectures pour une ombre
+url: http://www.gutenberg.org/ebooks/70995
