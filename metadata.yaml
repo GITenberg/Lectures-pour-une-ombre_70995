@@ -1,5 +1,8 @@
 _repo: Lectures-pour-une-ombre_70995
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70995-h/images/cover.jpg
 creator:
   author:
     agent_name: Giraudoux, Jean
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Giraudoux
     - https://fr.wikipedia.org/wiki/Jean_Giraudoux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70995#Lectures-pour-une-ombre
 gutenberg_issued: '2023-06-18'
 identifiers:
   gutenberg: '70995'
